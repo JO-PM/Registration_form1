@@ -11,6 +11,12 @@
     margin : auto;
 }
 
+.box{
+    background-color: black;
+    color: azure;  
+    width:100%; 
+    padding: 10px;
+}
 
 .submitButton {
     text-align : center;
