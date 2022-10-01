@@ -11,6 +11,14 @@
     margin : auto;
 }
 
+.main-form{
+    background-color: lightblue;
+}
+
+.container {
+    background-color: powderblue;
+}
+
 .box{
     background-color: black;
     color: azure;  
